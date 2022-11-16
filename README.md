@@ -1,6 +1,7 @@
 # SERVES
 SERVES (Soil-moisture Estimation of Root-zone through Vegetation-index based Evapotranspiration-fraction and Soil-properties) is based on Pradhan (2019).
 This repository has the SERVES executable setup package.
+
 RUNNING SERVES MODEL
 1) Run setup.exe in the folder SERVES_SETUP
 2) copy the executable named SERVES.exe from where the program is setup and paste it in the folder where the input files (mentioned above) are located. 
