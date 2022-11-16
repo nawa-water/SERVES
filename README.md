@@ -11,10 +11,9 @@ SERVES.exe filename.prj
 where, ‘SERVES.exe’ is the SERVES model executable and ‘filename.prj’ is the project file name as mentioned in section ‘PROJECT FILE
 
 REFERENCES:
-1)Pradhan, N. 2019. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” Hydrol. Sci. J. 64, 771–788
-
-2)Pradhan, N. 2021. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” ERDC/CHL MP-21-6; U.S. Army Engineer Research and Development Center: Vicksburg, MS, USA.
-3)SERVES manual: Soil-moisture Estimation of Root-zone through Vegetation-index based Evapotranspiration-fraction and Soil-properties (SERVES) User’s Manual Version 1
+1) Pradhan, N. 2019. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” Hydrol. Sci. J. 64, 771–788
+2) Pradhan, N. 2021. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” ERDC/CHL MP-21-6; U.S. Army Engineer Research and Development Center: Vicksburg, MS, USA.
+3) SERVES manual: Soil-moisture Estimation of Root-zone through Vegetation-index based Evapotranspiration-fraction and Soil-properties (SERVES) User’s Manual Version 1
 
 Author: Nawa Raj Pradhan, Ph.D., USACE, ERDC, CHL.
 Email: Nawa.Pradhan@usace.army.mil
