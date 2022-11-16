@@ -15,8 +15,9 @@ REFERENCES:
 2)Pradhan, N. 2021. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” ERDC/CHL MP-21-6; U.S. Army Engineer Research and Development Center: Vicksburg, MS, USA.
 3)SERVES manual: Soil-moisture Estimation of Root-zone through Vegetation-index based Evapotranspiration-fraction and Soil-properties (SERVES) User’s Manual Version 1
 
-Author: Nawa Raj Pradhan, PhD
+Author: Nawa Raj Pradhan, Ph.D., USACE, ERDC, CHL.
 Email: Nawa.Pradhan@usace.army.mil
-Version: 1.0
+Version: 1.0  (R&D effort: 2009 - 2019)
+
 
 
