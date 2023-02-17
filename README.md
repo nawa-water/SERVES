@@ -9,7 +9,7 @@ usually the path where SERVES.exe is located is something like this:
 C:\Program Files (x86)\Default Company Name\Setup1 
 3) to run the program, open dos command prompt and go to the location where the exe and input files exist. Type the following command and press enter key:
 SERVES.exe filename.prj
-where, ‘SERVES.exe’ is the SERVES model executable and ‘filename.prj’ is the project file name as mentioned in section ‘PROJECT FILE
+where, ‘SERVES.exe’ is the SERVES model executable and ‘filename.prj’ is the project file name.
 
 REFERENCES:
 1) Pradhan, N. 2019. “Estimating growing-season root zone soil moisture from vegetation index-based evapotranspiration fraction and soil properties in the Northwest Mountain region, USA.” Hydrol. Sci. J. 64, 771–788
